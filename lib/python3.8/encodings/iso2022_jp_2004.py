@@ -1,0 +1,1 @@
+/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/iso2022_jp_2004.py
